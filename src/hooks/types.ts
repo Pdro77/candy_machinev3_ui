@@ -28,12 +28,12 @@ export type TokenPayment$Gate = {
 //   decimals: number;
 // };
 
- export type TokenPayment = {
-   type: "token";
-   mint: PublicKey;
-   amount: number;
-   symbol?: string;
-   decimals: number;
+// export type TokenPayment = {
+  // type: "token";
+ //  mint: PublicKey;
+   //amount: number;
+   //symbol?: string;
+   //decimals: number;
 // };
 
 // export type NftPayment = {
